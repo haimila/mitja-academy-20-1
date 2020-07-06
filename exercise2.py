@@ -5,4 +5,4 @@ class Person:
         self.age = age
 
     def __str__(self):
-        return "Testing testing yykaakoo"
+        return "Testing testing yykaakoo, tähän versioon on lisätty tekstiä"
